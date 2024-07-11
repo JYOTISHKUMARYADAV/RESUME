@@ -1,0 +1,63 @@
+.header1{
+     height: auto;
+    width: auto;
+    background-color: rgb(229, 236, 233);
+    display:flex; 
+    justify-content: safe;
+}
+.header2{
+    height: auto;
+    width: auto;
+    background-color: rgb(229, 236, 233); */   
+}
+.header3{
+    height: auto;
+    width: 250px;
+    text-align: center;
+    padding-top: 60px;
+    color: rgb(5, 74, 101); 
+    
+}
+
+.Objective{
+    height: auto;
+    width: auto;;
+    background-color: rgb(229, 236, 233);
+    color: blue;
+    /* text-color: rgb(33, 14, 156); */
+}
+.Education{
+    height: auto;
+    width: auto;;
+    background-color: rgb(229, 236, 233);
+    color: rgb(53, 177, 44);
+}
+.Industrial{
+    height: auto;
+    width: auto;;
+    background-color: rgb(229, 236, 233);
+    color: blueviolet;
+}
+.technical{
+    height: auto;
+    width: auto;;
+    background-color: rgb(229, 236, 233);
+    color: rgb(15, 173, 120);
+}
+.personal{
+    height: auto;
+    width: auto;;
+    background-color: rgb(229, 236, 233);
+    color: rgb(205, 120, 9);
+}
+.Declaration{
+    height: auto;
+    width: auto;;
+    background-color: rgb(229, 236, 233);
+    color: rgb(141, 71, 71);
+}
+<ol type="1">
+<li>Persuing B.TECH (Computer Science & Engineering)from HI-Tech GZB</li>
+<li>Passed 12<sup>th</sup>from CBSE board in 2020</li>
+<li>Passed 10 <sup>th</sup>from CBSE board in 2018</li>
+</ol>
